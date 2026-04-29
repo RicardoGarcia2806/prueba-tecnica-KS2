@@ -65,3 +65,7 @@ A grandes rasgos la aplicacion tiene las siguientes funcionalidades:
 - Se puede buscar, filtrar por estado, editar, eliminar y agregar nuevas ventas.
 - Se puede ver la lista de usuarios, con su correo y rol.
 - Se tiene un control de permisos, donde solo los usuarios con rol de administrador pueden eliminar y editar los inmuebles y usuarios, y los usuarios con rol de editor pueden editar y eliminar los inmuebles.
+
+##Vistas de la aplicacion :)
+<img width="1298" height="649" alt="image" src="https://github.com/user-attachments/assets/2e2ef706-2b38-4f6c-8a3d-80cc982af00a" />
+
