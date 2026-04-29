@@ -67,5 +67,13 @@ A grandes rasgos la aplicacion tiene las siguientes funcionalidades:
 - Se tiene un control de permisos, donde solo los usuarios con rol de administrador pueden eliminar y editar los inmuebles y usuarios, y los usuarios con rol de editor pueden editar y eliminar los inmuebles.
 
 ## **Vistas de la aplicacion :)**
+Panel de Inicio de Sesion: 
 <img width="1298" height="649" alt="image" src="https://github.com/user-attachments/assets/2e2ef706-2b38-4f6c-8a3d-80cc982af00a" />
+
+Panel de control principal:
+<img width="1302" height="644" alt="image" src="https://github.com/user-attachments/assets/8d394b9c-a6bb-4281-bf5b-7d7edc5bdc16" />
+
+Panel de control de usuarios activos: 
+<img width="1321" height="644" alt="image" src="https://github.com/user-attachments/assets/486f1a9c-c0dc-4ce6-a36f-4e9e93151b14" />
+
 
