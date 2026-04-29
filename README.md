@@ -5,7 +5,7 @@ Esta es una app Fullstack de gestion de inmuebles, solicitada para la prueba tec
 
 - **Node.js**: v16+ (Recomendado v18 o superior)
 - **PostgreSQL**: v12+ instalado y ejecutándose localmente. Tambien podria montarse en un contenedor docker o un servidor de Supabase, pero solo para tener la base de datos.
-La base de datos solo tiene 2 tablas, una para usuarios y otra para inmuebles, con algunas relaciones entre ellas, como se ve en la imagen. La relacion entre las tablas es de uno a muchos, es decir, un usuario puede tener muchos inmuebles, como se habia solicitado en la especificacion de la prueba. La base de datos debe estar ejecutandose para que la aplicacion funcione al momento de correrla. 
+La base de datos solo tiene 2 tablas, una para usuarios y otra para inmuebles, con algunas relaciones entre ellas, como se ve en la imagen. La relacion entre las tablas es de uno a muchos, es decir, un usuario puede tener muchos inmuebles, como se habia solicitado en la especificacion de la prueba. La base de datos debe estar ejecutandose para que la aplicacion funcione al momento de correrla.\
 ![Imagen de la base de datos](image.png).
 ## Configuración y Ejecución
 
